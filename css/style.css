@@ -1,0 +1,99 @@
+body{
+	font-family: Segoe UI, "Helvetica Neue";
+	font-size: 14px;
+	color: #666;
+}
+header{
+	background-color: rgba(29,14,0,0.7) !important;
+}
+footer{
+	background-color: #432A1C;
+	padding: 25px 0;
+	border-top: 4px solid #432a1c;
+	color: #fff;
+	text-align: center;
+}
+footer img {
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
+#slides {
+	text-align: center;
+}
+
+#slides h1{
+	text-transform: uppercase;
+	color: white;
+	background-color: hsla(16,84%,12%,0.92);
+	margin: 10px 100px;
+	font-size: 30px
+}
+#slides h2{
+	text-transform: uppercase;
+	color: white;
+	background-color: hsla(16,84%,12%,0.92);
+	margin: 10px 150px;
+	padding: 0;
+	font-size: 20px
+}
+
+.first-slide {
+	background-image: url("../img/slider1.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	padding: 20% 0;
+}
+
+.second-slide {
+	background-image: url("../img/slider2.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	padding: 20% 0;
+}
+
+.third-slide {
+	background-image: url("../img/slider3.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	padding: 20% 0;
+}
+
+#our-specialty {
+	background-color: #432A1C;
+	padding: 20px;
+	align-content: center;
+}
+#our-specialty h1{
+	color: white;
+	text-transform: uppercase;
+	font-size: 30px
+	
+}
+#our-specialty h2{
+	color: #381305;
+	text-transform: uppercase;
+	font-size: 20px
+	
+}
+
+#our-specialty h1 span{
+	color: #c38346;
+	text-transform: uppercase;
+	font-size: 30px
+}
+
+#our-specialty a{
+	text-transform: uppercase;
+	color: white;
+	background-color: #c38346;
+	border-radius: 19px;
+	text-align: center;
+}
+
+#our-specialty p{
+	color: white;
+}
+
